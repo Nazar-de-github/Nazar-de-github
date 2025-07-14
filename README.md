@@ -17,6 +17,11 @@
 - **PHP** - основи і використання API.
 - **Git і GitHub** - читав Pro Git book (1-6 пункти)
 
+### Мої контакти
+:mailbox: derkevich.n@gmail.com :telephone_receiver: +380 962 460 215
+
+
+
 <!--
 **Nazar-de-github/Nazar-de-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
